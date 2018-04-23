@@ -6,9 +6,9 @@ namespace GitUsage
 {
     class Count
     {
-        public void Counts(string stringToPrint, int intToPrint)
+        public void Counts()
         {
-            Console.WriteLine(stringToPrint, intToPrint);
+            Console.WriteLine("Counting the countless parameter");
         }
     }
 }
