@@ -1,7 +1,9 @@
-class Greeter(){
+using System;
 
-void Greet(){
-	Console.WriteLine("Sup P!");
-}
-
+public class Greeter
+{
+    void Greet()
+    {
+        Console.WriteLine("Sup P!");
+    }
 }
