@@ -6,9 +6,9 @@ namespace GitUsage
 {
     class MemberB
     {
-        public void Count()
+        public void Count(string stringToPrint)
         {
-            Console.WriteLine("Miki, master of the skies.");
+            Console.WriteLine(stringToPrint);
         }
     }
 }
