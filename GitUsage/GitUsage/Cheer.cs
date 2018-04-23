@@ -8,7 +8,7 @@ namespace GitUsage
     {
         public static void Cheers()
         {
-            Console.WriteLine("This is hello from Member C");
+            Console.WriteLine("c#");
         }
     }
 }
