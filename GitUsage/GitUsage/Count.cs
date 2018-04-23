@@ -4,11 +4,11 @@ using System.Text;
 
 namespace GitUsage
 {
-    class MemberB
+    class Count
     {
-        public void PrintMyName()
+        public void Counts(string stringToPrint)
         {
-            Console.WriteLine("Miki, master of the skies.");
+            Console.WriteLine(stringToPrint);
         }
     }
 }
