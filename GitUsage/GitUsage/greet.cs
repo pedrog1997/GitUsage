@@ -8,7 +8,6 @@ public class Greeter
     {
         Console.WriteLine("Greetings");
         Greeting = "Sup homies!";
-
         Console.WriteLine(Greeting);
 
         Console.WriteLine($"Hello {name} you are {age} years old.");
