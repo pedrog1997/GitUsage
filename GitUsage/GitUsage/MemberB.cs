@@ -6,7 +6,7 @@ namespace GitUsage
 {
     class MemberB
     {
-        public void PrintMyName()
+        public void Count()
         {
             Console.WriteLine("Miki");
         }
