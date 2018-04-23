@@ -4,9 +4,9 @@ using System.Text;
 
 namespace GitUsage
 {
-    class MemberB
+    class Count
     {
-        public void Count(string stringToPrint)
+        public void Counts(string stringToPrint)
         {
             Console.WriteLine(stringToPrint);
         }
