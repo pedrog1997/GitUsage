@@ -6,6 +6,7 @@ public class Greeter
 
     void Greet()
     {
+        Console.WriteLine("Greetings");
         Greeting = "Sup homies!";
 
         Console.WriteLine(Greeting);

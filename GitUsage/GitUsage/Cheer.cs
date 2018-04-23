@@ -8,6 +8,7 @@ namespace GitUsage
     {
         public static void Cheers(string input)
         {
+            Console.WriteLine("c#");
             Console.WriteLine(input);
         }
     }
