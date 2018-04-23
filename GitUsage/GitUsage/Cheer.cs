@@ -6,9 +6,9 @@ namespace GitUsage
 {
     static class Cheer
     {
-        public static void Cheers()
+        public static void Cheers(string input)
         {
-            Console.WriteLine("This is hello from Member C");
+            Console.WriteLine(input);
         }
     }
 }
