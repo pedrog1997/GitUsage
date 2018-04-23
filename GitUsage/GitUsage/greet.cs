@@ -6,6 +6,6 @@ public class Greeter
 
     void Greet(string name, int age)
     {
-        Console.WriteLine($"Hello {name} you are {age} years old.");
+        Console.WriteLine(Greeting);
     }
 }
