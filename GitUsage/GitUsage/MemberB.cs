@@ -8,7 +8,7 @@ namespace GitUsage
     {
         public void PrintMyName()
         {
-            Console.WriteLine("Miki");
+            Console.WriteLine("Miki, master of the skies.");
         }
     }
 }
