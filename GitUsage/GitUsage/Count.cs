@@ -6,9 +6,9 @@ namespace GitUsage
 {
     class Count
     {
-        public void Counts()
+        public void Counts(string stringToPrint, int intToPrint)
         {
-            Console.WriteLine(11);
+            Console.WriteLine(stringToPrint, intToPrint);
         }
     }
 }
